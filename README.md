@@ -31,6 +31,10 @@ The gearbox uses multiple spur gear stages to reduce rotational speed and increa
 ## Software Used
 
 - SOLIDWORKS
+  
+
+  <img width="1080" height="615" alt="image" src="https://github.com/user-attachments/assets/fbe7fcbb-b8f9-4916-ac46-3ef65e1dd945" />
+
 
 <img width="1061" height="627" alt="image" src="https://github.com/user-attachments/assets/18615cd3-af2f-4d0f-ab76-d0979699432a" />
 
